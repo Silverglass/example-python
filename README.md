@@ -31,6 +31,9 @@ You can alternatively use the environment variables:
 
 ```sh
 pip install coverage
+
+
+
 coverage run tests.py
 ```
 
